@@ -7,3 +7,4 @@ gulpfile.js
 gutil.log
 package.json
 package-lock.json
+yarn.lock
